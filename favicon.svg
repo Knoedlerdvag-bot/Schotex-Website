@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <!-- Background: dark teal-charcoal, iOS-style rounded corners -->
+  <rect width="1024" height="1024" rx="225" ry="225" fill="#0f1a1a"/>
+  <!-- Teal border ring -->
+  <rect x="5" y="5" width="1014" height="1014" rx="222" ry="222"
+        fill="none" stroke="#0d8c86" stroke-width="4"/>
+  <!-- Inner ghost ring for refinement -->
+  <rect x="18" y="18" width="988" height="988" rx="211" ry="211"
+        fill="none" stroke="#0d8c86" stroke-width="1" opacity="0.18"/>
+  <!-- V — warm cream, bold serif -->
+  <text x="248" y="660"
+        font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', serif"
+        font-size="416" font-weight="700"
+        fill="#f0e8dc" text-anchor="middle">V</text>
+  <!-- & — teal accent, smaller, raised -->
+  <text x="512" y="576"
+        font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', serif"
+        font-size="192" font-weight="400"
+        fill="#0d8c86" text-anchor="middle">&amp;</text>
+  <!-- S — warm cream, bold serif -->
+  <text x="776" y="660"
+        font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', serif"
+        font-size="416" font-weight="700"
+        fill="#f0e8dc" text-anchor="middle">S</text>
+</svg>
